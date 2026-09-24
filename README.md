@@ -1,5 +1,9 @@
 # Agricultural Supply Chain Forecasting
 
+**Code for:** Jun Sun, Shuwen Zhou, Xiaoan Zhan, and Jiang Wu. *Enhancing Supply Chain Efficiency with Time Series Analysis and Deep Learning Techniques.* Preprints.org, 2024. DOI: [10.20944/preprints202409.0983.v1](https://doi.org/10.20944/preprints202409.0983.v1) ([paper page](https://www.preprints.org/manuscript/202409.0983/v1))
+
+**Maintained by:** Shuwen Zhou (co-author; GitHub: [@shugit](https://github.com/shugit))
+
 Forecasting agricultural commodity prices from historical futures data, to support stocking and supply decisions. The project follows the methods of the paper *Enhancing Supply Chain Efficiency with Time Series Analysis and Deep Learning Techniques* (Sun, Zhou, Zhan, and Wu, 2024).
 
 This repository is a clean re-implementation of the methods described in the paper by its authors, written for public release; results may differ slightly from those reported.
